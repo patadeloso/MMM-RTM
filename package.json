@@ -1,0 +1,28 @@
+{
+  "name": "magic-mirror-module-rememberthemilk",
+  "version": "0.0.1",
+  "description": "RemeberTheMilk integration for MagicMirror2.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patadeloso/MMM-RemeberTheMilk.git"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "Remeber The Milk",
+    "remeberthemilk",
+    "module"
+  ],
+  "author": "Shaun McManus",
+  "contributors": [
+    "https://github.com/patadeloso/MMM-RemeberTheMilk/graphs/contributors"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patadeloso/MMM-RemeberTheMilk/issues"
+  },
+  "homepage": "https://github.com/patadeloso/MMM-RemeberTheMilk#readme",
+  "dependencies": {
+    "async": "latest"
+  }
+}
