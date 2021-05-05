@@ -24,5 +24,8 @@
   "homepage": "https://github.com/patadeloso/MMM-RemeberTheMilk#readme",
   "dependencies": {
     "async": "latest"
+  },
+  "devDependencies": {
+    "rtm-js": "^1.0.2"
   }
 }
